@@ -1,0 +1,1 @@
+{"doc":" Each possible authority in this project is represented by a constant in this class.\n The constants are used within the {@link org.springframework.stereotype.Controller} or\n {@link org.springframework.stereotype.Service} classes in the method security annotations\n (e.g. {@link PreAuthorize}).\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

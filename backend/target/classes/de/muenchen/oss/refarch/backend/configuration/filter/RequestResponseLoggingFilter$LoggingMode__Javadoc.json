@@ -1,0 +1,1 @@
+{"doc":" Logging mode to use for incoming HTTP requests\n","fields":[],"enumConstants":[{"name":"ALL","doc":" Logs all requests\n"},{"name":"CHANGING","doc":" Logs only changing requests, see {@link RequestResponseLoggingFilter#CHANGING_METHODS}\n"},{"name":"NONE","doc":" Logs no requests\n"}],"methods":[],"constructors":[]}

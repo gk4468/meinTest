@@ -1,0 +1,1 @@
+{"doc":" Wrapper for HttpServletRequest that performs NFC conversion.\n\n @see java.text.Normalizer\n","fields":[],"enumConstants":[],"methods":[{"name":"login","paramTypes":["java.lang.String","java.lang.String"],"doc":" {@inheritDoc}\n\n Only the username is converted to nfc. Password won't be touched!\n"}],"constructors":[]}
