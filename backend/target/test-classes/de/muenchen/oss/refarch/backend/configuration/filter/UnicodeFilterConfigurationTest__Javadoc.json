@@ -1,1 +1,0 @@
-{"doc":"","fields":[{"name":"TEXT_ATTRIBUTE_DECOMPOSED","doc":" Decomposed string:\n String \"Ä-é\" represented with unicode letters \"A◌̈-e◌́\"\n"},{"name":"TEXT_ATTRIBUTE_COMPOSED","doc":" Composed string:\n String \"Ä-é\" represented with unicode letters \"Ä-é\".\n"}],"enumConstants":[],"methods":[],"constructors":[]}

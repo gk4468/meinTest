@@ -1,1 +1,0 @@
-{"doc":" Utilities for authentication data.\n","fields":[],"enumConstants":[],"methods":[{"name":"getUsername","paramTypes":[],"doc":" Extracts the user name from the existing Spring Security Context via\n {@link SecurityContextHolder}.\n\n @return the username or an \"unauthenticated\" if no {@link Authentication} exists\n"}],"constructors":[]}

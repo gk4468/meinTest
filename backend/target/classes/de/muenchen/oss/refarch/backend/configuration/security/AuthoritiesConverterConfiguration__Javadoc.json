@@ -1,1 +1,0 @@
-{"doc":" Configure how authorities are resolved.\n Either {@link KeycloakRolesAuthoritiesConverter} or with profile \"keycloak-permissions\"\n {@link KeycloakPermissionsAuthoritiesConverter}.\n","fields":[],"enumConstants":[],"methods":[],"constructors":[]}

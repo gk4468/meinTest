@@ -1,1 +1,0 @@
-{"doc":"Exception if data cannot be found. ","fields":[],"enumConstants":[],"methods":[],"constructors":[{"name":"<init>","paramTypes":["java.lang.String"],"doc":" NotFoundException constructor\n\n @param message Exception message\n"}]}
